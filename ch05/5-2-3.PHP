@@ -3,7 +3,7 @@
 EX01<Hr/>
 <BR>
 <?php
-$grade = 80;
+$grade = 50;
 if ( $grade >= 80 ) {
 print "
 甲等
