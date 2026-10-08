@@ -1,3 +1,6 @@
+# SID: C113181116<br/>
+# Name: zhiyuan <br/>
+EX02<Hr/>
 <?php
 $total = 0;
 for ($i = 1; $i <= 10; $i++) {
