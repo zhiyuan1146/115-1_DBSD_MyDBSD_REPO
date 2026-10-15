@@ -1,9 +1,10 @@
 <?php
 
+
 function printHeader() {
     echo "<h3>SID: C113181116</h3>";
     echo "<h3>NAME:朱智遠</h3>";
-    echo "<h3>PHP and MySQL 網頁設計</h3>";
+    echo "<h3>EX01</h3>";
 }
 
 function printFooter() {
