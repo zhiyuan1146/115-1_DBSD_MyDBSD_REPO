@@ -9,7 +9,7 @@ function printHeader() {
 
 function printFooter() {
     echo "<hr><BR>";
-    echo "(c) C113181116-林宥任. All rights reserved.";
+    echo "(c) C113181116-朱智遠. All rights reserved.";
 }
 
 printHeader();

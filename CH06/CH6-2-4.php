@@ -5,7 +5,7 @@ function printHeader() {
     echo "<h3>NAME:朱智遠</h3>";
     echo "<h3>EX03</h3>";
 }
-
+printHeader() ."";
 function volume($length, $width = 10, $height = 15)
 {
     print $length . "x" . $width . "x" . $height . "= ";
