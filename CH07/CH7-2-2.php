@@ -1,15 +1,17 @@
 <?php
 include("about_me.php");
 echo"EX03<br/>";
-$score = array(22, 16, 30, 24);
-$total = 0;
-
-foreach ($score as $element) {
-    echo "element : $element <br/>";
-    $total += $element;
+$arr = array(
+    "Color"=>"Black",
+    "name"=>"陳惠安", 
+    "Shape"=>"Triangle",
+    100
+);
+$arr["type"] = "PHP";
+unset($arr["type"]);
+foreach ($arr as $key => $value) {
+    echo "$key=>$value<br/>";
 }
-
-echo "Total: " . $total . "<br/>";
-
-print_r($score);
+echo "<br/>";
+print_r($arr);
 ?>
