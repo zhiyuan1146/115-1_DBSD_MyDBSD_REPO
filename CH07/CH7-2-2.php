@@ -1,6 +1,6 @@
 <?php
 include("about_me.php");
-echo"EX02<br/>";
+echo"EX03<br/>";
 $score = array(22, 16, 30, 24);
 $total = 0;
 
