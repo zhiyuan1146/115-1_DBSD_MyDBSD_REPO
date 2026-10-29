@@ -1,4 +1,7 @@
 <?php
+include("about_me.php");
+echo"EX01<br/>";
+
     $str1 = "PHP and MySQL Web Programming"; // 字串變數
     $str2 = " PHP與MySQL網頁設計範例教本 ";
 

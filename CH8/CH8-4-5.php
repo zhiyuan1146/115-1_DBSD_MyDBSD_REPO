@@ -1,4 +1,7 @@
+
 <?php
+require("about_me.php");
+echo "W08-EX03" . "<br/>";
 $error = "";
 $msg = ""; // 初始變數值
 $name = "";
