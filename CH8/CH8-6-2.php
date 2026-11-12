@@ -4,6 +4,8 @@
 
 <body>
    <?php
+   require("about_me.php");
+echo "W10-EX01" . "<br/>";
       session_start();  // 啟用交談期
       echo "啟用交談期<br/>";
       
